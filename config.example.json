@@ -1,0 +1,12 @@
+{
+  "project_name": "Binance Wallet Agent",
+  "mode": "paper",
+  "live_trading_enabled": false,
+  "max_order_quote_amount": 10,
+  "max_daily_loss_quote_amount": 20,
+  "allowed_symbols": ["BTCUSDT"],
+  "allow_futures": false,
+  "allow_margin": false,
+  "allow_withdrawals": false,
+  "require_manual_confirmation_for_live_orders": true
+}
